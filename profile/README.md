@@ -19,8 +19,6 @@ Status: Building immersive worlds...
   └── 🌙 Lua
 
 📁 Frameworks & Engines/
-  ├── ⚛️ React
-  ├── ▲ Next.js
   ├── 🕹️ Defold
   ├── 🕹️ Love2D
   └── 🟢 Node.js
