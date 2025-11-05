@@ -12,20 +12,6 @@ Status: Building immersive worlds...
 
 ---
 
-### `$ ls ~/studio_tools`
-```
-📁 Languages/
-  ├── 🟨 JavaScript
-  └── 🌙 Lua
-
-📁 Frameworks & Engines/
-  ├── 🕹️ Defold
-  ├── 🕹️ Love2D
-  └── 🟢 Node.js
-```
-
----
-
 ### `$ cat ~/active_projects.log`
 ```log
 [?]          >> Terris
