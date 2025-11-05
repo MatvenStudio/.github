@@ -2,7 +2,7 @@
 ```bash
 matven@org.local:~$ cat /etc/profile
 -----------------------------------
-Organization: Matven
+Organization: Matven Studio
 Tagline: Crafting Retro Indie Experiences
 Focus: [Game Dev, Tech Experiments, Creative Coding]
 Founded: 2025
