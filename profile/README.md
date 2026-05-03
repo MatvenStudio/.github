@@ -14,9 +14,5 @@ Status: Building immersive worlds...
 
 ### `$ cat ~/active_projects.log`
 ```log
-[?]          >> Terris
-             >> Build your world. Grow your story.
-             >> LUA + NodeJS + Defold
-
 [?]          >> [Future Projects Loading...]
 ```
